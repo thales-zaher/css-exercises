@@ -1,0 +1,10 @@
+div {
+  font-family: sans-serif;
+  padding: 0 20px;
+  color: #fff;
+  background-color: red;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  display: inline-block;
+}
